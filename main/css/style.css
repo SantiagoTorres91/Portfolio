@@ -1,2 +1,8 @@
 header
-    {border: #000 solid}
+    {background-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 70px;
+    padding-left: 20px;
+    padding-top: 10px;}
+header .container-fluid h1
+        {color: rgb(131, 77, 202)}
